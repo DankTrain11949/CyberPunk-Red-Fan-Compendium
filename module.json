@@ -1,0 +1,173 @@
+{
+	"name": "CPRED-Fan-Compendium",
+	"title": "CyberPunk Red Fan Compendium",
+	"description": "Adds Generic NPCs, weapons, cyberware, net runner stuff, rollable encounter tables. More to come.",
+	"author": "LordOfCardboard & DankTrain",
+	"version": "1.1",
+	"minimumCoreVersion": "0.5.0",
+	"compatibleCoreVersion": "0.7.7",
+	"packs": [{
+			"name": "weapons",
+			"label": "Basic Weapons",
+			"path": "packs/weapons.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "NPCs",
+			"label": "Generic NPCs",
+			"path": "packs/npc-mooks.db",
+			"entity": "Actor",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "borg",
+			"label": "borgware",
+			"path": "packs/borgware.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "cyberaud",
+			"label": "cyberaudio",
+			"path": "packs/cyberaudio.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "cyberdeck hardware",
+			"label": "cyberdeck-hardware",
+			"path": "packs/cyberdeck-hardware.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "cyberlimbs cyberarm",
+			"label": "cyberlimbs-cyberarm",
+			"path": "packs/cyberlimbs-cyberarm.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "cyberlimbs cyberlegs",
+			"label": "cyberlimbs-cyberlegs",
+			"path": "packs/cyberlimbs-cyberlegs.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "cybergoptics",
+			"label": "cyberoptics",
+			"path": "packs/cyberoptics.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "drugos",
+			"label": "drugs",
+			"path": "packs/drugs.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "encounter",
+			"label": "encounters",
+			"path": "packs/encounter.db",
+			"entity": "RollTable",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "external body cyberware",
+			"label": "external-body-cyberware",
+			"path": "packs/external-body-cyberware.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "fashion ware",
+			"label": "fashionware",
+			"path": "packs/fashionware.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "internal body cyberware",
+			"label": "internal-body-cyberware",
+			"path": "packs/internal-body-cyberware.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "basic items",
+			"label": "items",
+			"path": "packs/items.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "neuralwares",
+			"label": "neuralware",
+			"path": "packs/neuralware.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "programs attackers",
+			"label": "programs-attackers",
+			"path": "packs/programs-attackers.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "programs black ice",
+			"label": "programs-black-ice",
+			"path": "packs/programs-black-ice.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "programs boosters",
+			"label": "programs boosters",
+			"path": "packs/programs-boosters.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "programs-defender",
+			"label": "programs defender",
+			"path": "packs/programs-defender.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "programs-defender",
+			"label": "programs defender",
+			"path": "packs/programs-defender.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		}
+	],
+	"url": "https://github.com/hellogriffalo/cpunk-mooks-grunts-and-guns",
+	"manifest": "https://raw.githubusercontent.com/hellogriffalo/cpunk-mooks-grunts-and-guns/main/module.json",
+	"download": "https://github.com/hellogriffalo/cpunk-mooks-grunts-and-guns/archive/main.zip"
+}
