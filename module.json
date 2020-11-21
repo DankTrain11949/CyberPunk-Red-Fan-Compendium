@@ -167,7 +167,7 @@
 			"module": "CPRED-Fan-Compendium"
 		}
 	],
-	"url": "https://github.com/hellogriffalo/cpunk-mooks-grunts-and-guns",
-	"manifest": "https://raw.githubusercontent.com/hellogriffalo/cpunk-mooks-grunts-and-guns/main/module.json",
-	"download": "https://github.com/hellogriffalo/cpunk-mooks-grunts-and-guns/archive/main.zip"
+	"url": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium",
+	"manifest": "https://raw.githubusercontent.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/main/module.json",
+	"download": "https://raw.githubusercontent.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/archive/main.zip"
 }
