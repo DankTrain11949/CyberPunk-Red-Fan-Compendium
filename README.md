@@ -4,5 +4,4 @@
 NPCs, Weapons, Cyberware, basic items
 
 1.1
-
 Rollable encounter tables, NPCs, Weapons, Cyberware, Netrunner attacks, basic items.
