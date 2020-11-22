@@ -1,5 +1,7 @@
 # CyberPunk-Red-Fan-Compendium
 
+manifest: https://raw.githubusercontent.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/main/module.json
+
 1.0:
 NPCs, Weapons, Cyberware, basic items
 
