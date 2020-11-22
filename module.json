@@ -157,14 +157,6 @@
 			"entity": "Item",
 			"system": "cyberpunkred",
 			"module": "CPRED-Fan-Compendium"
-		},
-		{
-			"name": "programs-defender",
-			"label": "programs defender",
-			"path": "packs/programs-defender.db",
-			"entity": "Item",
-			"system": "cyberpunkred",
-			"module": "CPRED-Fan-Compendium"
 		}
 	],
 	"url": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium",
