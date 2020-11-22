@@ -144,15 +144,15 @@
 		},
 		{
 			"name": "programs boosters",
-			"label": "programs boosters",
+			"label": "programs-boosters",
 			"path": "packs/programs-boosters.db",
 			"entity": "Item",
 			"system": "cyberpunkred",
 			"module": "CPRED-Fan-Compendium"
 		},
 		{
-			"name": "programs-defender",
-			"label": "programs defender",
+			"name": "programs defender",
+			"label": "programs-defender",
 			"path": "packs/programs-defender.db",
 			"entity": "Item",
 			"system": "cyberpunkred",
