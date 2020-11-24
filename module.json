@@ -157,6 +157,22 @@
 			"entity": "Item",
 			"system": "cyberpunkred",
 			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "ammunition-",
+			"label": "ammunition",
+			"path": "packs/ammunition.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "armor SP",
+			"label": "armor",
+			"path": "packs/armor.db",
+			"entity": "Item",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
 		}
 	],
 	"url": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium",
