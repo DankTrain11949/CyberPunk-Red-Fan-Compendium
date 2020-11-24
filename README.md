@@ -9,3 +9,5 @@ NPCs, Weapons, Cyberware, basic items
 Rollable encounter tables, NPCs, Weapons, Cyberware, Netrunner attacks, basic items.
 
 1.1.1: fixed Mysteery man icon issue and removes a duplicate line in module.json
+
+1.2: Added Ammo, Armor and some Drugs.
