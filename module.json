@@ -173,6 +173,30 @@
 			"entity": "Item",
 			"system": "cyberpunkred",
 			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "role specific stat blocks",
+			"label": "role-specific-stat-blocks",
+			"path": "packs/role-specific-stat-blocks.db",
+			"entity": "RollTable",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "role specific lifepaths",
+			"label": "role-specific-lifepaths",
+			"path": "packs/role-specific-lifepaths.db",
+			"entity": "RollTable",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
+		},
+		{
+			"name": "general lifepaths",
+			"label": "general-lifepaths",
+			"path": "packs/general-lifepaths.db",
+			"entity": "RollTable",
+			"system": "cyberpunkred",
+			"module": "CPRED-Fan-Compendium"
 		}
 	],
 	"url": "https://github.com/DankTrain11949/CyberPunk-Red-Fan-Compendium",
